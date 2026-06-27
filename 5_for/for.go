@@ -20,13 +20,13 @@ func main() {
 
 	// classics for loop
 
-	/*
+	
 
 	for i := 0; i < 5; i++ {
 		fmt.Println(i)
 	}
 
-	*/
+	
 
 	for i := range 31 {
 
